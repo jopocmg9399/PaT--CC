@@ -1,0 +1,8 @@
+
+{
+  "name": "PaTí - Plataforma de Tiendas",
+  "description": "Plataforma integral para el alojamiento de tiendas online con sistema de afiliados, gestión de inventario y reportes avanzados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
